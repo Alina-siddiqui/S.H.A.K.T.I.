@@ -1,16 +1,15 @@
 # S.H.A.K.T.I - Safety Help Alert Key Tracker with Instant Response
 
-### 🚨 Why This Project?
+### Why This Project?
 Every year, thousands of **rape cases** and **assault incidents** occur worldwide. Many locations have become **hotspots for crime**, making personal safety a major concern. **S.H.A.K.T.I** is designed to **empower individuals** with a smart, wearable safety device that provides real-time alerts and tracking.
 
 ---
 
 ##  Features
-**Fall & Assault Detection** (MPU6050)  
+**Fall Detection** (MPU6050)  
 **Heart Rate Monitoring** (PPG Sensor)  
 **SOS Emergency Alerts** via BLE  
-**Location Tracking** via GPS  
-**Buzzer Alarm** for immediate response  
+**Location Tracking** via GPS   
 **Safe/Unsafe Area Categorization**  
 **Bluetooth Connectivity** with Mobile App  
 
@@ -36,7 +35,7 @@ Make sure to install the following **Arduino libraries** before uploading the co
 | **BLEUtils.h** | Provides BLE utilities | `Arduino Library Manager` |
 | **BLE2902.h** | Configures BLE properties | `Arduino Library Manager` |
 
----
+
 
 
 
